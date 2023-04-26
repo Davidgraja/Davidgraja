@@ -12,7 +12,7 @@ Soy desarrollador web full stack especializado en tecnologías con el lenguage j
 
 ## 🔗 Redes sociales
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-david-grajales-paredes-879625236/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-david-grajales-paredes/)
 
 
 
