@@ -1,13 +1,13 @@
 
 # Hola 👋 , Bienvenido a mi perfil
 
-Soy desarrollador web full stack especializado en tecnologías con el lenguage javaScript
+Soy desarrollador web full stack especializado en tecnologías con el lenguage javaScript 
 
 > Soy una persona apasionada por la tecnología y que le gusta estar constantemente obteniendo nuevas hablidades y retos.
 
 ### Actualmente me dedico a  
 - desarrollar software de forma freelance 
-- aprendiendo sobre micro servicios y NodeJS
+<!-- - aprendiendo sobre micro servicios y NodeJS -->
 
 
 ## 🔗 Redes sociales
