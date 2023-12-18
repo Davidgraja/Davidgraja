@@ -1,13 +1,13 @@
 
 # Hola 👋 , Bienvenido a mi perfil
 
-Soy desarrollador web full stack especializado en tecnologías con el lenguage javaScript 
+Desarrollador Flutter  
 
 > Soy una persona apasionada por la tecnología y que le gusta estar constantemente obteniendo nuevas hablidades y retos.
 
 ### Actualmente me dedico a  
-- desarrollar software de forma freelance 
-<!-- - aprendiendo sobre micro servicios y NodeJS -->
+- desarrollar aplicaciones mobiles multiplataforma con flutter 
+<!-- - aprendiendo sobre push y local notifications-->
 
 
 ## 🔗 Redes sociales
@@ -19,13 +19,13 @@ Soy desarrollador web full stack especializado en tecnologías con el lenguage j
 
 
 ## 🛠 Frameworks y herramientas
-React , nodejs , express  , MongoDB , Html 5 , Css 3 , Git , jest
+
+Flutter , nodejs , express  , MongoDB , Git , jest
 
 
 ## 👨🏻‍🚀 Habilidades
 
-- Conocimiento en programación  y desarrollo web. 
+- Conocimiento en programación  y  desarrollo mobile multiplaforma. 
 - Habilidad para trabajar en equipo.
 - Autodidacta
 - Creativo y logico 
-
